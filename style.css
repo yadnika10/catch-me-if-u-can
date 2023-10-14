@@ -1,0 +1,13 @@
+body{
+    overflow: hidden;
+    background: rgb(151, 223, 135);
+}
+#move-div{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
